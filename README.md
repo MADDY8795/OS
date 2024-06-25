@@ -5,6 +5,10 @@
 > writerprocess.c
 
 > readerprocess.c
+RUN IN TERMINAL
+> fifosend.c
+
+> fiforecv.c
 
 # WEEK7
 
