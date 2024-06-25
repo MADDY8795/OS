@@ -1,9 +1,9 @@
-#WEEK 5
+# WEEK 5
 > pipeprocessing.c
 > writerprocess.c
 > readerprocess.c
 
-#WEEK7
+# WEEK7
 > FCFS.c
 > LRU.c
 > optimal.c
