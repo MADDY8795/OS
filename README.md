@@ -5,6 +5,7 @@
 > writerprocess.c
 
 > readerprocess.c
+
 RUN IN TERMINAL
 > fifosend.c
 
